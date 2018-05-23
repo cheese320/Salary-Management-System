@@ -1,0 +1,5 @@
+Alex 20
+Rain 80000
+Egon 50000
+Yuan 30000
+Lucy 30
