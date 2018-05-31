@@ -17,5 +17,5 @@
 执行环境:
 - python 3.0
 - window10
-- IDE: pycharm
+- IDE: pycharm 2.7
 
